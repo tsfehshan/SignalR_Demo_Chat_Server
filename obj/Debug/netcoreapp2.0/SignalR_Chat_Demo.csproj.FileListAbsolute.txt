@@ -1,0 +1,11 @@
+D:\ProfessionalPractice\SignalR_Chat_Demo\SignalR_Chat_Demo\bin\Debug\netcoreapp2.0\SignalR_Chat_Demo.deps.json
+D:\ProfessionalPractice\SignalR_Chat_Demo\SignalR_Chat_Demo\bin\Debug\netcoreapp2.0\SignalR_Chat_Demo.runtimeconfig.json
+D:\ProfessionalPractice\SignalR_Chat_Demo\SignalR_Chat_Demo\bin\Debug\netcoreapp2.0\SignalR_Chat_Demo.runtimeconfig.dev.json
+D:\ProfessionalPractice\SignalR_Chat_Demo\SignalR_Chat_Demo\bin\Debug\netcoreapp2.0\SignalR_Chat_Demo.dll
+D:\ProfessionalPractice\SignalR_Chat_Demo\SignalR_Chat_Demo\obj\Debug\netcoreapp2.0\SignalR_Chat_Demo.csprojResolveAssemblyReference.cache
+D:\ProfessionalPractice\SignalR_Chat_Demo\SignalR_Chat_Demo\obj\Debug\netcoreapp2.0\SignalR_Chat_Demo.csproj.CoreCompileInputs.cache
+D:\ProfessionalPractice\SignalR_Chat_Demo\SignalR_Chat_Demo\obj\Debug\netcoreapp2.0\SignalR_Chat_Demo.AssemblyInfoInputs.cache
+D:\ProfessionalPractice\SignalR_Chat_Demo\SignalR_Chat_Demo\obj\Debug\netcoreapp2.0\SignalR_Chat_Demo.AssemblyInfo.cs
+D:\ProfessionalPractice\SignalR_Chat_Demo\SignalR_Chat_Demo\bin\Debug\netcoreapp2.0\SignalR_Chat_Demo.pdb
+D:\ProfessionalPractice\SignalR_Chat_Demo\SignalR_Chat_Demo\obj\Debug\netcoreapp2.0\SignalR_Chat_Demo.dll
+D:\ProfessionalPractice\SignalR_Chat_Demo\SignalR_Chat_Demo\obj\Debug\netcoreapp2.0\SignalR_Chat_Demo.pdb
